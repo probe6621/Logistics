@@ -14,6 +14,14 @@ networks, and last-mile delivery optimization.
 > it is not a universal guarantee for every geography, cost function, or
 > production workload.
 
+## Project Demo
+
+Watch the Toroidal Routing Core overview and benchmark demonstration:
+
+[![Watch the Toroidal Routing Core demo](https://img.youtube.com/vi/7WKCssleLmw/hqdefault.jpg)](https://youtube.com/shorts/7WKCssleLmw)
+
+**Watch on YouTube:** <https://youtube.com/shorts/7WKCssleLmw>
+
 ## Why Toroidal Routing?
 
 Large logistics networks create a difficult optimization problem: every new
